@@ -1,0 +1,3 @@
+pip install schedule
+pip install notify2
+pip install scikit-learn
